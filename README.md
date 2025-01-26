@@ -1,8 +1,8 @@
 # Chemoinformatics_ML_RegressionAnalysis
 <br>
 # Solubility Prediction Using Machine Learning 🚀🔬
-**This project is a machine learning regression analysis focused on predicting the solubility of chemical compounds based on their molecular descriptors.
-**
+<br>
+**This project is a machine learning regression analysis focused on predicting the solubility of chemical compounds based on their molecular descriptors.**
 
 <br>
 # Tech Stack 
