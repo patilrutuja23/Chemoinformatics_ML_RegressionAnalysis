@@ -5,12 +5,13 @@
 **
 
 <br>
-# Tech Stack
-🐍 Python
-📊 Pandas, NumPy – Data processing and analysis
-🤖 Scikit-learn – Machine learning models (Linear Regression, Random Forest)
-📈 Matplotlib – Data visualization
-🧪 Chemoinformatics & Computational Chemistry
+# Tech Stack 
+<br>
+🐍 Python <br>
+📊 Pandas, NumPy – Data processing and analysis <br>
+🤖 Scikit-learn – Machine learning models (Linear Regression, Random Forest) <br>
+📈 Matplotlib – Data visualization <br>
+🧪 Chemoinformatics & Computational Chemistry <br>
 <br>
 
 <br>
