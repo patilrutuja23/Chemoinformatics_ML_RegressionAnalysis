@@ -15,7 +15,7 @@
 <br>
 
 <br>
-This project likely aims to:
+# This project likely aims to:
 <br>
 **Predict chemical solubility:** Useful in pharmaceutical and chemical industries to estimate how well compounds dissolve in solvents.<br>
 **Compare model performance:** Determine which algorithm best predicts solubility based on molecular descriptors.<br>
